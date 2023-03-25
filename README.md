@@ -1,4 +1,4 @@
-COVID-19 Vaccination Dashboard
+## COVID-19 Vaccination Dashboard
 
 ## NOTE
 - Interacting with the Dashboard on Tableau Public.
